@@ -1,0 +1,14 @@
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll.config
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.xml
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.initialcreate.resources
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.AnimalFood.resources
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csproj.GenerateResource.Cache
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csprojResolveAssemblyReference.cache
+E:\projects\CodeCoopers\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.FoodPriceAdd.resources

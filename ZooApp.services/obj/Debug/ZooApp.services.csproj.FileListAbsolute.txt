@@ -1,0 +1,14 @@
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.services.dll.config
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.services.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.services.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\EntityFramework.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.Models.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.ViewModel.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.Models.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\ZooApp.ViewModel.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\EntityFramework.xml
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\obj\Debug\ZooApp.services.csprojResolveAssemblyReference.cache
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\obj\Debug\ZooApp.services.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.services\obj\Debug\ZooApp.services.pdb

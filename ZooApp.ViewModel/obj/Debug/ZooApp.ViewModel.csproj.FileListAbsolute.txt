@@ -1,0 +1,9 @@
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\ZooApp.ViewModel.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\ZooApp.ViewModel.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\obj\Debug\ZooApp.ViewModel.csprojResolveAssemblyReference.cache
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\obj\Debug\ZooApp.ViewModel.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\obj\Debug\ZooApp.ViewModel.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\ZooApp.Models.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\EntityFramework.dll
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\ZooApp.Models.pdb
+E:\projects\CodeCoopers\ZooApp\ZooApp.ViewModel\bin\Debug\EntityFramework.xml
